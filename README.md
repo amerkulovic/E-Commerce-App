@@ -17,4 +17,4 @@ A back end application that uses sequelize to get, post, put, and delete data fr
 
 ## Video
 
-![E-Commerce Video](https://youtu.be/0GIbASeEg5M "README Video")
+![E-Commerce Video](https://youtu.be/0GIbASeEg5M)
